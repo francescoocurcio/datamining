@@ -1,7 +1,7 @@
 # Heart Disease Prediction Project
 🧑🏼‍🏫 This project focuses on predicting the likelihood of heart disease using machine learning techniques. The dataset originates from the CDC's Behavioral Risk Factor Surveillance System (BRFSS), a large-scale survey on the health conditions of U.S. residents.
 
-💻 What has been made
+💻 What has been made:
 
 1. **Dataset Origin**<br>
 The dataset used in this project comes from Kaggle, originally sourced from the CDC's **BRFSS**. The **BRFSS** conducts annual phone surveys across all 50 U.S. states to collect health-related data. This dataset contains crucial indicators of heart disease such as high blood pressure, high cholesterol, diabetes, and lifestyle factors like smoking and physical activity. Here the direct **link** for the dataset: https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease
